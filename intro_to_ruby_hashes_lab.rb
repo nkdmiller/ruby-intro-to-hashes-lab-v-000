@@ -1,5 +1,6 @@
 def new_hash
-	retutn {}
+	hash = {}
+	retutn hash
 end
 
 def actor
